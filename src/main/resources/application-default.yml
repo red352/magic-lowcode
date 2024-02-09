@@ -1,0 +1,9 @@
+
+magic-api:
+  resource:
+    type: database
+    table-name: magic_api_file_v2
+  web: magic/web
+  security:
+    username: admin
+    password: 123456
