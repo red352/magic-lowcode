@@ -7,3 +7,4 @@ magic-api:
   security:
     username: admin
     password: 123456
+  secret-key: 123456 # 环境推送密钥
